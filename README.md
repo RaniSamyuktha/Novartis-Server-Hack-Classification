@@ -27,7 +27,7 @@ The objective is to classify whether a server incident leads to multiple offense
 3. **Final Model Selection:**
    After evaluating all models, the Gradient Boosting Classifier was chosen as the best-performing model.
 
-Based on the notebook, you chose the **Gradient Boosting Classifier (GBK)** as the best-performing model. Here's why it was selected as the best:
+Based on the notebook, I chose the **Gradient Boosting Classifier (GBK)** as the best-performing model. Here's why it was selected as the best:
 
 ### Model Evaluation Metrics:
 Five models were trained and compared using **Accuracy** and **Recall** scores:
